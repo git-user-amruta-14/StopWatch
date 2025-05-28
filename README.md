@@ -1,1 +1,2 @@
-# This is a StopWatch mini Project.
+# This is a StopWatch mini Project.<br>
+Author: Amruta Gole
